@@ -1,3 +1,3 @@
 # Resume
-Date: June 13, 2015,
-Comment: Adding my updated resume
+Date: December 15, 2019
+Description: Resume of Prachi Shah
